@@ -4,15 +4,15 @@
     color: white;
 }
 
+
+body{
+  font-family: 'Raleway', sans-serif;
+  background-color: #000;
+}
+
 h2{
     font-weight: 500;
 }
-
-body{
-    font-family: 'Raleway', sans-serif;
-    background-color: #000;
-}
-
 
 /* Navbar */
 .dark-celu .container {
