@@ -14,14 +14,16 @@ h2{
 }
 
 /* Navbar */
+.dark-celu .container {
+  background-color: transparent;
+}
+
 .nav-black {
     background-color: black;
     color: white;
   }
   
-  .dark-celu .container {
-    background-color: transparent;
-  }
+
   
   @media only screen and (max-width: 991px) {
     
